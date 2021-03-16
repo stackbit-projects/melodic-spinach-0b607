@@ -8,7 +8,6 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     spotify: 'https://#',
-    github: 'https://github.com/ryanfitzgerald',
     twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
