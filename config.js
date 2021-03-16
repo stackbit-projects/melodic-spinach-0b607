@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Aventurillas Online - El podcast', // Required
   author: 'Aventurillas Online'// Required
-  description: 'Full-stack Web Developer',
+  description: 'El podcast',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
