@@ -9,7 +9,7 @@ module.exports = {
   social: {
     spotify: 'https://#',
     about: '/about',
-    contact: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    contact: '/contacto',
   },
   pathPrefix: '/blog',
   siteUrl: 'https://aventurillasonline.com',
