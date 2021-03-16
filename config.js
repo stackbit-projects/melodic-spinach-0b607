@@ -8,8 +8,8 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     spotify: 'https://#',
-    about: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    about: '/about',
+    contact: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
   pathPrefix: '/blog',
   siteUrl: 'https://aventurillasonline.com',
