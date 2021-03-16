@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: 'Aventurillas Online', // Required
   author: 'Aventurillas Online// Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
