@@ -8,7 +8,7 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     spotify: 'https://#',
-    about: '/about',
+    about: '/acerca',
     contact: '/contacto',
   },
   pathPrefix: '/blog',
