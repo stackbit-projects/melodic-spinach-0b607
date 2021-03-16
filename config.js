@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    spotify: 'https://ryanfitzgerald.ca',
+    spotify: 'https://#',
     github: 'https://github.com/ryanfitzgerald',
     twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
